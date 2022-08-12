@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KedarMalapVcet
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning JavaScript, React Js, Node Js, Express Js, Mongo db (MERN STACK).
-- 💞️ I’m looking to collaborate on open-sorce projects.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me, contact me on my LinkedIn profile (https://www.linkedin.com/in/kedarmalap).
 
 <!---
